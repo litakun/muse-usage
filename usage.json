@@ -1,10 +1,10 @@
 {
-  "weekly_used_percent": 60,
-  "weekly_left_percent": 40,
+  "weekly_used_percent": 61,
+  "weekly_left_percent": 39,
   "weekly_resets_at": "2026-11-27T18:55:00+09:00",
   "weekly_resets_epoch": 1795773300,
   "extra_used_percent": 5,
   "extra_left_percent": 95,
   "extra_tokens_left_billions": 13.0,
-  "updated_at": "2026-11-25T10:00:21+09:00"
+  "updated_at": "2026-11-25T10:15:21+09:00"
 }
